@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.5] - 2022-04-18
+- Emit 'input' event when new option is selected  
+
 ## [1.0.4] - 2020-03-04
 - Added --minimal variation
 - --custom-dropdown variation: fixed minor bug with viewport awareness 
